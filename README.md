@@ -4,6 +4,11 @@ Welcome to my **Breakout Game**, a modern twist on the classic arcade challenge!
 
 ---
 
+
+https://github.com/user-attachments/assets/acf21651-3a5a-4305-b2d9-1d4e5c9d8f25
+
+---
+
 ## Why This Project? 🤔
 
 This game isn’t just about fun — it’s a canvas to showcase skills in:
